@@ -55,7 +55,7 @@ GameObject:
   - component: {fileID: 5744181202050099671}
   m_Layer: 0
   m_Name: Shard (7)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 5744181202139770291}
   m_Layer: 0
   m_Name: Shard (5)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -367,7 +367,7 @@ GameObject:
   - component: {fileID: 5744181202749997575}
   m_Layer: 0
   m_Name: Shard (3)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -523,7 +523,7 @@ GameObject:
   - component: {fileID: 5744181203434900988}
   m_Layer: 0
   m_Name: Shard (6)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -679,7 +679,7 @@ GameObject:
   - component: {fileID: 5744181203574077375}
   m_Layer: 0
   m_Name: Shard (2)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -835,7 +835,7 @@ GameObject:
   - component: {fileID: 5744181203577686711}
   m_Layer: 0
   m_Name: Shard (4)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -991,7 +991,7 @@ GameObject:
   - component: {fileID: 5744181203607877510}
   m_Layer: 0
   m_Name: Shard
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1147,7 +1147,7 @@ GameObject:
   - component: {fileID: 5744181203885817924}
   m_Layer: 0
   m_Name: Shard (1)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
